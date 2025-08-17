@@ -1,4 +1,4 @@
-# 🎓 CS50 AI – Week 0: Degrees
+# 🎓 AI Project – Degrees(BFS)
 
 ## 🧩 Overview
 
